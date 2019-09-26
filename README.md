@@ -2,4 +2,4 @@
 
 esse repositório contém os exercícios extras propostos no *1º Codelab de Golang* do Women Who Go Curitiba.
 
-_fork me :D_
+_fork me :D_ (ps: FORKA AINDA NÃO!)

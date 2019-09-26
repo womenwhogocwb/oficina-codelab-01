@@ -1,0 +1,1 @@
+//possíveis resoluções

@@ -1,8 +1,8 @@
 # Golang Codelab
-###### por Women Who Go Curitiba
+###### por Women Who Go Curitiba [![Twitter](./static/twitter-logo.png)](https://twitter.com/womenwhogocwb) [![LinkedIn](./static/linkedin-logo.png)](https://www.linkedin.com/company/40847620) 
 ![](./static/wwgcwb-logo.png)
 
-## boas vindas! 
+## Boas vindas! 
 
 esse repositório contém os exercícios extras propostos no *1º Codelab de Golang* do Women Who Go Curitiba.
 
@@ -34,15 +34,15 @@ este conteúdo está em português (pt-br).
 
  - [x] exercícios dia 03
 
- - [ ] [exercícios dia 04](#3)
+ - [ ] [exercícios dia 04](./issues/3)
 
- - [ ] [exercícios dia 05](#4)
+ - [ ] [exercícios dia 05](./issues/4)
 
  - [x] resoluções dia 01
 
- - [ ] [resoluções dia 02](#5)
+ - [ ] [resoluções dia 02](./issues/5)
 
- - [ ] [resoluções dia 03](#6)
+ - [ ] [resoluções dia 03](./issues/6)
 
  - [ ] resoluções dia 04
 

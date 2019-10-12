@@ -1,5 +1,6 @@
 # Golang Codelab
-###### por Women Who Go Curitiba [![Twitter](./static/twitter-logo.png)](https://twitter.com/womenwhogocwb) [![LinkedIn](./static/linkedin-logo.png)](https://www.linkedin.com/company/40847620) 
+###### por Women Who Go Curitiba
+[![Twitter](./static/twitter-logo.png)](https://twitter.com/womenwhogocwb) [![LinkedIn](./static/linkedin-logo.png)](https://www.linkedin.com/company/40847620) 
 ![](./static/wwgcwb-logo.png)
 
 ## Boas vindas! 
@@ -34,15 +35,15 @@ este conteúdo está em português (pt-br).
 
  - [x] exercícios dia 03
 
- - [ ] [exercícios dia 04](./issues/3)
+ - [ ] [exercícios dia 04](https://github.com/womenwhogocwb/WWG-Codelab-01/issues/3)
 
- - [ ] [exercícios dia 05](./issues/4)
+ - [ ] [exercícios dia 05](https://github.com/womenwhogocwb/WWG-Codelab-01/issues/4)
 
  - [x] resoluções dia 01
 
- - [ ] [resoluções dia 02](./issues/5)
+ - [ ] [resoluções dia 02](https://github.com/womenwhogocwb/WWG-Codelab-01/issues/5)
 
- - [ ] [resoluções dia 03](./issues/6)
+ - [ ] [resoluções dia 03](https://github.com/womenwhogocwb/WWG-Codelab-01/issues/6)
 
  - [ ] resoluções dia 04
 

@@ -41,9 +41,9 @@ este conteúdo está em português (pt-br).
 
  - [x] resoluções dia 01
 
- - [ ] [resoluções dia 02](https://github.com/womenwhogocwb/WWG-Codelab-01/issues/5)
+ - [x] [resoluções dia 02](https://github.com/womenwhogocwb/WWG-Codelab-01/issues/5)
 
- - [ ] [resoluções dia 03](https://github.com/womenwhogocwb/WWG-Codelab-01/issues/6)
+ - [x] [resoluções dia 03](https://github.com/womenwhogocwb/WWG-Codelab-01/issues/6)
 
  - [ ] resoluções dia 04
 

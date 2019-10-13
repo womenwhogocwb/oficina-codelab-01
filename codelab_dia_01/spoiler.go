@@ -56,15 +56,14 @@ func main() {
 	fmt.Println("\n\nValor Total da Compra: R$", valorTotal)
 
 	fmt.Println("\n<<< Dia 01 Exercício #06 >>>")
+	fmt.Println(`> A palavra "var" é uma keyword e não pode ser utilizada como identificador.
+As keywords da linguagem podem ser utilizadas apenas para os seus fins.
+Por exemplo, a finalidade de "var" é declarar uma variável, como no código acima.
+Todas as keywords de Go estão expostas neste link:
+- https://golang.org/ref/spec#Keywords`)
 	var umNumero int
 	umNumero = 27
-	fmt.Println("\nvalor da variável:", umNumero)
-
-	//A palavra "var" é uma keyword e não pode ser utilizada como identificador.
-	//As keywords da linguagem podem ser utilizadas apenas para os seus fins.
-	//Por exemplo, a finalidade de "var" é declarar uma variável, como no código acima.
-	//Todas as keywords de Go estão expostas neste link:
-	//- https://golang.org/ref/spec#Keywords
+	fmt.Println("\nvalor da variável umNumero:", umNumero)
 
 	fmt.Println("\n<<< Dia 01 Exercício #07 >>>")
 	X := 15
@@ -79,10 +78,10 @@ func main() {
 
 	fmt.Println("\n<<< Dia 01 Exercício #08 >>>")
 	var x int
-	fmt.Println("\nvalor de x:", x)
+	fmt.Printf("\n\nvalor de x: %v, tipo de x: %T\n", x, x)
 
-	//Quando uma variável é criada e nenhum valor é explicitamente atribuído a ela,
-	//ela recebe um valor padrão.
-	//Esse valor depende do tipo da variável e se chama "valor zero" em Go.
-	//Para o tipo int o valor zero é 0, como podemos ver ao dar Run nesse código.
+	fmt.Println(`> Quando uma variável é criada e nenhum valor é explicitamente
+atribuído a ela, ela recebe um valor padrão.
+Esse valor depende do tipo da variável e se chama "valor zero" em Go.
+Para o tipo int o valor zero é 0, como podemos ver ao dar Run nesse código.`)
 }

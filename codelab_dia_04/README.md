@@ -43,7 +43,7 @@
 ---
 
 1) Utilizando composite literal, crie uma slice de `string` e preencha com os nomes dos personagens da sua série ou filme preferido.
-2) Encontre uma forma de **printar os valores** separados por linha sem utilizar a estrutura `for range`
+2) Encontre uma forma de **printar os valores** separados por linha sem utilizar a estrutura `for range` e sem listar cada um dos elementos individualmente pelo índice.
 
 ###### fim
 

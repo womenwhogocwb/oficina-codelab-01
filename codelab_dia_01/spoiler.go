@@ -78,7 +78,7 @@ Todas as keywords de Go estão expostas neste link:
 
 	fmt.Println("\n<<< Dia 01 Exercício #08 >>>")
 	var x int
-	fmt.Printf("\n\nvalor de x: %v, tipo de x: %T\n", x, x)
+	fmt.Printf("\n\nvalor de x: %d, tipo de x: %T\n", x, x)
 
 	fmt.Println(`> Quando uma variável é criada e nenhum valor é explicitamente
 atribuído a ela, ela recebe um valor padrão.

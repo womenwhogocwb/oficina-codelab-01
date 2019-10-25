@@ -15,9 +15,9 @@ func main() {
 
 	if anoAtual >= anoNascimento {
 		if idade >= 16 {
-			fmt.Printf("essa pessoa tem %v anos e já pode votar.\n", idade)
+			fmt.Printf("essa pessoa tem %d anos e já pode votar.\n", idade)
 		} else if idade < 16 && idade >= 0 {
-			fmt.Printf("essa pessoa tem %v anos e ainda não pode votar.\n", idade)
+			fmt.Printf("essa pessoa tem %d anos e ainda não pode votar.\n", idade)
 		}
 	} else {
 		fmt.Println("por favor, verifique os valores fornecidos e tente novamente.")

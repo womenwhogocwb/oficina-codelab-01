@@ -21,7 +21,7 @@ dia | tema abordado | exercícios | soluções
 🗂 [01](./codelab_dia_01) | declaração de variáveis, int e float | ✔ | ✔
 🗂 [02](./codelab_dia_02) | string, bool, fluxo de controle: if | ✔ | ✔
 🗂 [03](./codelab_dia_03) | switch, for, for range, funções básicas | ✔ | ✔
-🗂 [04](./codelab_dia_04) | arrays e slices | ✔️ | ⏳ 
+🗂 [04](./codelab_dia_04) | arrays e slices | ✔️ | ✔️ 
 🗂 [05](./codelab_dia_05) | maps e structs  | ⏳ | ⏳ 
 
 ## Língua

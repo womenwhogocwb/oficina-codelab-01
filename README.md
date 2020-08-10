@@ -5,7 +5,7 @@
 [![LinkedIn](./static/linkedin-logo.png)](https://www.linkedin.com/company/40847620)
 [![Facebook](./static/facebook-logo.png)](https://facebook.com/womenwhogocwb)
  
-![](./static/wwgcwb-logo.png)
+![](static/logo-wwgcwb.png)
 
 ## Boas vindas! 
 

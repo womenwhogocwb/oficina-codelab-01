@@ -1,6 +1,10 @@
 # Golang Codelab
-###### por Women Who Go Curitiba
-[![Twitter](./static/twitter-logo.png)](https://twitter.com/womenwhogocwb) [![LinkedIn](./static/linkedin-logo.png)](https://www.linkedin.com/company/40847620) 
+###### por [Women Who Go Curitiba](https://womenwhogocwb.github.io)
+[![Twitter](./static/twitter-logo.png)](https://twitter.com/womenwhogocwb)
+[![Instagram](./static/instagram-logo.png)](https://instagram.com/womenwhogocwb)
+[![LinkedIn](./static/linkedin-logo.png)](https://www.linkedin.com/company/40847620)
+[![Facebook](./static/facebook-logo.png)](https://facebook.com/womenwhogocwb)
+ 
 ![](./static/wwgcwb-logo.png)
 
 ## Boas vindas! 
